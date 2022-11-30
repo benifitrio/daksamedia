@@ -13,8 +13,8 @@
 }
 
 .owl-carousel .owl-item img {
-    height: 300px;
-    width: 400px;
+    height: 400px;
+    width: 350px;
     object-fit: cover;
     border-radius: 6px;
 }
