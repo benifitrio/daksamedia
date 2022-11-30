@@ -95,3 +95,25 @@
     background-color: #25D366;
     color: #ffffff;
 }
+
+h2.gb-headline-afaf4ea7 .gb-icon svg {
+    width: 1em;
+    height: 1em;
+}
+
+.gb-icon svg {
+    height: 1em;
+    width: 1em;
+    fill: currentColor;
+    color: #008fff;
+    text-align: center;
+}
+
+h2.gb-headline-afaf4ea7 {
+    text-align: center;
+    color: #008fff;
+    border-color: #7f5353;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
