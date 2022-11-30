@@ -14,6 +14,7 @@
 
 .owl-carousel .owl-item img {
     height: 300px;
+    width: 400px;
     object-fit: cover;
     border-radius: 6px;
 }
@@ -23,8 +24,8 @@
     bottom: -20px;
     left: 33%;
     color: #101c81;
-    font-size: 1.1rem;
-    font-weight: 600;
+    font-size: 1rem;
+    font-weight: 300;
     background-color: aquamarine;
     padding: 0.3rem 0.4rem;
     border-radius: 5px;
