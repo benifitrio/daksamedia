@@ -92,6 +92,6 @@
 .wrapper .youtube:hover,
 .wrapper .youtube:hover .tooltip,
 .wrapper .youtube:hover .tooltip::before {
-    background-color: #de463b;
+    background-color: #25D366;
     color: #ffffff;
 }
